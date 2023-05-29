@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imag/PACMANS de 25X25 px.png</file>
+        <file>imag/LABERINTO DED 726X825_V2.png</file>
+        <file>imag/NUEVO_LABERINTO 425x525  ok.png</file>
+        <file>imag/NUEVO_LABERINTO 425x525  ok_sin calles.png</file>
+        <file>imag/UltimoLaberinto - copia.png</file>
+    </qresource>
+</RCC>
